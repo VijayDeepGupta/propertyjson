@@ -329,6 +329,66 @@
          }
       }
    }
+},
+    {
+   "zpid": "2129301854",
+   "links": {
+      "homedetails": "https://www.zillow.com/homedetails/2735-Bush-St-San-Francisco-CA-94115/2129301854_zpid/",
+      "mapthishome": "http://www.zillow.com/homes/2129301854_zpid/",
+      "comparables": "http://www.zillow.com/homes/comps/2129301854_zpid/"
+   },
+   "address": {
+      "street": "2735 Bush St",
+      "zipcode": "94115",
+      "city": "San Francisco",
+      "state": "CA",
+      "latitude": "37.785609",
+      "longitude": "-122.442287"
+   },
+   "FIPScounty": [],
+   "useCode": "Condominium",
+   "yearBuilt": "1910",
+   "finishedSqFt": "1104",
+   "bathrooms": "2.0",
+   "bedrooms": "2",
+   "zestimate": {
+      "amount": {
+         "@currency": "USD",
+         "#text": "1694570"
+      },
+      "last-updated": "05/10/2018",
+      "oneWeekChange": {
+         "@deprecated": "true"
+      },
+      "valueChange": {
+         "@duration": "30",
+         "@currency": "USD",
+         "#text": "-756319"
+      },
+      "valuationRange": {
+         "low": {
+            "@currency": "USD",
+            "#text": "1321765"
+         },
+         "high": {
+            "@currency": "USD",
+            "#text": "2169050"
+         }
+      },
+      "percentile": "0"
+   },
+   "localRealEstate": {
+      "region": {
+         "@name": "Lower Pacific Heights",
+         "@id": "417501",
+         "zindexValue": "1,107,300",
+         "links": {
+            "overview": "http://www.zillow.com/local-info/CA-San-Francisco/Lower-Pacific-Heights/r_417501/",
+            "forSaleByOwner": "http://www.zillow.com/lower-pacific-heights-san-francisco-ca/fsbo/",
+            "forSale": "http://www.zillow.com/lower-pacific-heights-san-francisco-ca/"
+         }
+      }
+   }
 }
  ]
 }
