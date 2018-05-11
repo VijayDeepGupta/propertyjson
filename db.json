@@ -196,6 +196,65 @@
          }
       }
    }
+},
+    {
+   "zpid": "190901003",
+   "links": {
+      "homedetails": "https://www.zillow.com/homedetails/2885-Sanford-Ave-SW-12-Grandville-MI-49418/190901003_zpid/",
+      "graphsanddata": "http://www.zillow.com/homedetails/2885-Sanford-Ave-SW-12-Grandville-MI-49418/190901003_zpid/#charts-and-data",
+      "mapthishome": "http://www.zillow.com/homes/190901003_zpid/",
+      "comparables": "http://www.zillow.com/homes/comps/190901003_zpid/"
+   },
+   "address": {
+      "street": "2885 Sanford Ave SW # 12",
+      "zipcode": "49418",
+      "city": "Grandville",
+      "state": "MI",
+      "latitude": "42.912538",
+      "longitude": "-85.755439"
+   },
+   "FIPScounty": "26081",
+   "useCode": "Condominium",
+   "taxAssessmentYear": "2017",
+   "taxAssessment": "73000.0",
+   "yearBuilt": "2006",
+   "lotSizeSqFt": "43560",
+   "finishedSqFt": "10000",
+   "bedrooms": "0",
+   "zestimate": {
+      "amount": {
+         "@currency": "USD",
+         "#text": "333798"
+      },
+      "last-updated": "05/10/2018",
+      "oneWeekChange": {
+         "@deprecated": "true"
+      },
+      "valueChange": [],
+      "valuationRange": {
+         "low": {
+            "@currency": "USD",
+            "#text": "300418"
+         },
+         "high": {
+            "@currency": "USD",
+            "#text": "380530"
+         }
+      },
+      "percentile": "0"
+   },
+   "localRealEstate": {
+      "region": {
+         "@name": "Grandville",
+         "@id": "52291",
+         "zindexValue": "178,900",
+         "links": {
+            "overview": "http://www.zillow.com/local-info/MI-Grandville/r_52291/",
+            "forSaleByOwner": "http://www.zillow.com/grandville-mi/fsbo/",
+            "forSale": "http://www.zillow.com/grandville-mi/"
+         }
+      }
+   }
 }
   ]
 }
