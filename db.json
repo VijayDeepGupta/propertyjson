@@ -1,8 +1,13 @@
 {
-  "posts": [
+  "allproperties": [
     {
       "id": 1,
-      "title": "Vijay"
+      "price": "$59,000",
+      "roomtype": "3bd",
+      "balconytype": "2ba",
+      "area": "2072 sqrt",
+      "address":
+      
     }
   ],
   "profile": {
