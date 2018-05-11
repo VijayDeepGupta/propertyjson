@@ -857,6 +857,68 @@
          }
       }
    }
+},
+    {
+   "zpid": "32593683",
+   "links": {
+      "homedetails": "https://www.zillow.com/homedetails/9585-Old-Hickory-Rd-Wayne-NY-14893/32593683_zpid/",
+      "graphsanddata": "http://www.zillow.com/homedetails/9585-Old-Hickory-Rd-Wayne-NY-14893/32593683_zpid/#charts-and-data",
+      "mapthishome": "http://www.zillow.com/homes/32593683_zpid/",
+      "comparables": "http://www.zillow.com/homes/comps/32593683_zpid/"
+   },
+   "address": {
+      "street": "9585 Old Hickory Rd",
+      "zipcode": "14893",
+      "city": "WAYNE",
+      "state": "NY",
+      "latitude": "42.465759",
+      "longitude": "-77.110988"
+   },
+   "FIPScounty": "36101",
+   "useCode": "SingleFamily",
+   "taxAssessmentYear": "2015",
+   "taxAssessment": "53800.0",
+   "yearBuilt": "1940",
+   "lotSizeSqFt": "14810",
+   "finishedSqFt": "512",
+   "bathrooms": "1.0",
+   "bedrooms": "2",
+   "lastSoldDate": "08/04/2014",
+   "lastSoldPrice": {
+      "@currency": "USD",
+      "#text": "25000"
+   },
+   "zestimate": {
+      "amount": {
+         "@currency": "USD"
+      },
+      "last-updated": "01/01/1970",
+      "oneWeekChange": {
+         "@deprecated": "true"
+      },
+      "valueChange": [],
+      "valuationRange": {
+         "low": {
+            "@currency": "USD"
+         },
+         "high": {
+            "@currency": "USD"
+         }
+      },
+      "percentile": "0"
+   },
+   "localRealEstate": {
+      "region": {
+         "@name": "Wayne",
+         "@id": "399073",
+         "zindexValue": "240,600",
+         "links": {
+            "overview": "http://www.zillow.com/local-info/NY-Wayne/r_399073/",
+            "forSaleByOwner": "http://www.zillow.com/wayne-ny/fsbo/",
+            "forSale": "http://www.zillow.com/wayne-ny/"
+         }
+      }
+   }
 }
  ]
 }
