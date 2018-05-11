@@ -718,6 +718,76 @@
          }
       }
    }
+},
+    {
+   "zpid": "83943160",
+   "links": {
+      "homedetails": "https://www.zillow.com/homedetails/321-Ivy-Trl-Rhinebeck-NY-12572/83943160_zpid/",
+      "graphsanddata": "http://www.zillow.com/homedetails/321-Ivy-Trl-Rhinebeck-NY-12572/83943160_zpid/#charts-and-data",
+      "mapthishome": "http://www.zillow.com/homes/83943160_zpid/",
+      "comparables": "http://www.zillow.com/homes/comps/83943160_zpid/"
+   },
+   "address": {
+      "street": "321 Ivy Trl",
+      "zipcode": "12572",
+      "city": "RHINEBECK",
+      "state": "NY",
+      "latitude": "41.92931",
+      "longitude": "-73.930105"
+   },
+   "FIPScounty": "36027",
+   "useCode": "Condominium",
+   "taxAssessmentYear": "2017",
+   "taxAssessment": "195000.0",
+   "yearBuilt": "2013",
+   "lotSizeSqFt": "1",
+   "finishedSqFt": "1500",
+   "bathrooms": "3.0",
+   "bedrooms": "2",
+   "totalRooms": "6",
+   "lastSoldDate": "10/18/2013",
+   "lastSoldPrice": {
+      "@currency": "USD",
+      "#text": "319900"
+   },
+   "zestimate": {
+      "amount": {
+         "@currency": "USD",
+         "#text": "438247"
+      },
+      "last-updated": "05/10/2018",
+      "oneWeekChange": {
+         "@deprecated": "true"
+      },
+      "valueChange": {
+         "@duration": "30",
+         "@currency": "USD",
+         "#text": "55739"
+      },
+      "valuationRange": {
+         "low": {
+            "@currency": "USD",
+            "#text": "416335"
+         },
+         "high": {
+            "@currency": "USD",
+            "#text": "460159"
+         }
+      },
+      "percentile": "0"
+   },
+   "localRealEstate": {
+      "region": {
+         "@name": "Rhinebeck",
+         "@id": "399203",
+         "zindexValue": "316,800",
+         "links": {
+            "overview": "http://www.zillow.com/local-info/NY-Rhinebeck/r_399203/",
+            "forSaleByOwner": "http://www.zillow.com/rhinebeck-ny/fsbo/",
+            "forSale": "http://www.zillow.com/rhinebeck-ny/"
+         }
+      }
+   }
 }
  ]
 }
