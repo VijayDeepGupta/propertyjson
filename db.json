@@ -659,6 +659,65 @@
          }
       }
    }
+},
+    {
+   "zpid": "2090570518",
+   "links": {
+      "homedetails": "https://www.zillow.com/homedetails/5821-Ny-9g-Hudson-NY-12534/2090570518_zpid/",
+      "mapthishome": "http://www.zillow.com/homes/2090570518_zpid/",
+      "comparables": "http://www.zillow.com/homes/comps/2090570518_zpid/"
+   },
+   "address": {
+      "street": "5821 Ny-9g",
+      "zipcode": "12534",
+      "city": "Hudson",
+      "state": "NY",
+      "latitude": "42.223859",
+      "longitude": "-73.825333"
+   },
+   "FIPScounty": [],
+   "useCode": "SingleFamily",
+   "yearBuilt": "1952",
+   "lotSizeSqFt": "43560",
+   "bathrooms": "1.0",
+   "bedrooms": "1",
+   "zestimate": {
+      "amount": {
+         "@currency": "USD",
+         "#text": "196925"
+      },
+      "last-updated": "05/10/2018",
+      "oneWeekChange": {
+         "@deprecated": "true"
+      },
+      "valueChange": {
+         "@duration": "30",
+         "@currency": "USD",
+         "#text": "2559"
+      },
+      "valuationRange": {
+         "low": {
+            "@currency": "USD",
+            "#text": "167386"
+         },
+         "high": {
+            "@currency": "USD",
+            "#text": "279634"
+         }
+      },
+      "percentile": "0"
+   },
+   "localRealEstate": {
+      "region": {
+         "@name": "Greenport",
+         "@id": "399154",
+         "links": {
+            "overview": "http://www.zillow.com/local-info/NY-Greenport/r_399154/",
+            "forSaleByOwner": "http://www.zillow.com/greenport-ny/fsbo/",
+            "forSale": "http://www.zillow.com/greenport-ny/"
+         }
+      }
+   }
 }
  ]
 }
