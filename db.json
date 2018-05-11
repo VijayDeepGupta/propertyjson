@@ -788,6 +788,75 @@
          }
       }
    }
+},
+    {
+   "zpid": "53766534",
+   "links": {
+      "homedetails": "https://www.zillow.com/homedetails/45-Johnny-Cake-Rd-Fulton-NY-13069/53766534_zpid/",
+      "graphsanddata": "http://www.zillow.com/homedetails/45-Johnny-Cake-Rd-Fulton-NY-13069/53766534_zpid/#charts-and-data",
+      "mapthishome": "http://www.zillow.com/homes/53766534_zpid/",
+      "comparables": "http://www.zillow.com/homes/comps/53766534_zpid/"
+   },
+   "address": {
+      "street": "45 Johnny Cake Rd",
+      "zipcode": "13069",
+      "city": "FULTON",
+      "state": "NY",
+      "latitude": "43.335341",
+      "longitude": "-76.470672"
+   },
+   "FIPScounty": "36075",
+   "useCode": "SingleFamily",
+   "taxAssessmentYear": "2017",
+   "taxAssessment": "65685.0",
+   "yearBuilt": "1950",
+   "lotSizeSqFt": "39007",
+   "finishedSqFt": "2000",
+   "bathrooms": "2.0",
+   "bedrooms": "3",
+   "lastSoldDate": "10/14/1997",
+   "lastSoldPrice": {
+      "@currency": "USD",
+      "#text": "4000"
+   },
+   "zestimate": {
+      "amount": {
+         "@currency": "USD",
+         "#text": "77800"
+      },
+      "last-updated": "05/10/2018",
+      "oneWeekChange": {
+         "@deprecated": "true"
+      },
+      "valueChange": {
+         "@duration": "30",
+         "@currency": "USD",
+         "#text": "-3317"
+      },
+      "valuationRange": {
+         "low": {
+            "@currency": "USD",
+            "#text": "70798"
+         },
+         "high": {
+            "@currency": "USD",
+            "#text": "90248"
+         }
+      },
+      "percentile": "0"
+   },
+   "localRealEstate": {
+      "region": {
+         "@name": "Granby",
+         "@id": "397963",
+         "zindexValue": "88,700",
+         "links": {
+            "overview": "http://www.zillow.com/local-info/NY-Granby/r_397963/",
+            "forSaleByOwner": "http://www.zillow.com/granby-ny/fsbo/",
+            "forSale": "http://www.zillow.com/granby-ny/"
+         }
+      }
+   }
 }
  ]
 }
