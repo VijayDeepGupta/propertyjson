@@ -329,6 +329,74 @@
          }
       }
    }
+},
+  {
+   "zpid": "82814642",
+   "links": {
+      "homedetails": "https://www.zillow.com/homedetails/650-Turk-St-UNIT-604-San-Francisco-CA-94102/82814642_zpid/",
+      "graphsanddata": "http://www.zillow.com/homedetails/650-Turk-St-UNIT-604-San-Francisco-CA-94102/82814642_zpid/#charts-and-data",
+      "mapthishome": "http://www.zillow.com/homes/82814642_zpid/",
+      "comparables": "http://www.zillow.com/homes/comps/82814642_zpid/"
+   },
+   "address": {
+      "street": "650 Turk St UNIT 604",
+      "zipcode": "94102",
+      "city": "SAN FRANCISCO",
+      "state": "CA",
+      "latitude": "37.782378",
+      "longitude": "-122.420163"
+   },
+   "FIPScounty": "6075",
+   "useCode": "Condominium",
+   "taxAssessmentYear": "2017",
+   "taxAssessment": "561000.0",
+   "yearBuilt": "2007",
+   "finishedSqFt": "377",
+   "bathrooms": "1.0",
+   "bedrooms": "0",
+   "lastSoldDate": "08/05/2015",
+   "lastSoldPrice": {
+      "@currency": "USD",
+      "#text": "550000"
+   },
+   "zestimate": {
+      "amount": {
+         "@currency": "USD",
+         "#text": "591032"
+      },
+      "last-updated": "05/10/2018",
+      "oneWeekChange": {
+         "@deprecated": "true"
+      },
+      "valueChange": {
+         "@duration": "30",
+         "@currency": "USD",
+         "#text": "77745"
+      },
+      "valuationRange": {
+         "low": {
+            "@currency": "USD",
+            "#text": "520108"
+         },
+         "high": {
+            "@currency": "USD",
+            "#text": "620584"
+         }
+      },
+      "percentile": "0"
+   },
+   "localRealEstate": {
+      "region": {
+         "@name": "Van Ness - Civic Center",
+         "@id": "417500",
+         "zindexValue": "789,200",
+         "links": {
+            "overview": "http://www.zillow.com/local-info/CA-San-Francisco/Van-Ness----Civic-Center/r_417500/",
+            "forSaleByOwner": "http://www.zillow.com/van-ness---civic-center-san-francisco-ca/fsbo/",
+            "forSale": "http://www.zillow.com/van-ness---civic-center-san-francisco-ca/"
+         }
+      }
+   }
 }
  ]
 }
