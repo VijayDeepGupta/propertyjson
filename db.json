@@ -329,62 +329,6 @@
          }
       }
    }
-},
-  {
-   "zpid": "2090342995",
-   "links": {
-      "homedetails": "https://www.zillow.com/homedetails/942-Market-St-503-San-Francisco-CA-94102/2090342995_zpid/",
-      "mapthishome": "http://www.zillow.com/homes/2090342995_zpid/",
-      "comparables": "http://www.zillow.com/homes/comps/2090342995_zpid/"
-   },
-   "address": {
-      "street": "942 Market St # 503",
-      "zipcode": "94102",
-      "city": "San Francisco",
-      "state": "CA",
-      "latitude": "37.7839",
-      "longitude": "-122.408904"
-   },
-   "FIPScounty": [],
-   "useCode": "Condominium",
-   "yearBuilt": "2007",
-   "finishedSqFt": "613",
-   "bathrooms": "1.0",
-   "bedrooms": "1",
-   "zestimate": {
-      "amount": {
-         "@currency": "USD",
-         "#text": "856258"
-      },
-      "last-updated": "05/10/2018",
-      "oneWeekChange": {
-         "@deprecated": "true"
-      },
-      "valueChange": [],
-      "valuationRange": {
-         "low": {
-            "@currency": "USD",
-            "#text": "693569"
-         },
-         "high": {
-            "@currency": "USD",
-            "#text": "1147386"
-         }
-      },
-      "percentile": "0"
-   },
-   "localRealEstate": {
-      "region": {
-         "@name": "Downtown",
-         "@id": "268114",
-         "zindexValue": "756,400",
-         "links": {
-            "overview": "http://www.zillow.com/local-info/CA-San-Francisco/Downtown/r_268114/",
-            "forSaleByOwner": "http://www.zillow.com/downtown-san-francisco-ca/fsbo/",
-            "forSale": "http://www.zillow.com/downtown-san-francisco-ca/"
-         }
-      }
-   }
 }
  ]
 }
