@@ -599,6 +599,66 @@
          }
       }
    }
+},
+    {
+   "zpid": "2093033245",
+   "links": {
+      "homedetails": "https://www.zillow.com/homedetails/794-796-Hayes-St-San-Francisco-CA-94102/2093033245_zpid/",
+      "mapthishome": "http://www.zillow.com/homes/2093033245_zpid/",
+      "comparables": "http://www.zillow.com/homes/comps/2093033245_zpid/"
+   },
+   "address": {
+      "street": "794 796 Hayes St",
+      "zipcode": "94102",
+      "city": "San Francisco",
+      "state": "CA",
+      "latitude": "37.77621",
+      "longitude": "-122.429344"
+   },
+   "FIPScounty": [],
+   "useCode": "MultiFamily2To4",
+   "yearBuilt": "1885",
+   "lotSizeSqFt": "2700",
+   "finishedSqFt": "6093",
+   "bedrooms": "0",
+   "zestimate": {
+      "amount": {
+         "@currency": "USD",
+         "#text": "2618781"
+      },
+      "last-updated": "05/10/2018",
+      "oneWeekChange": {
+         "@deprecated": "true"
+      },
+      "valueChange": {
+         "@duration": "30",
+         "@currency": "USD",
+         "#text": "36447"
+      },
+      "valuationRange": {
+         "low": {
+            "@currency": "USD",
+            "#text": "1964086"
+         },
+         "high": {
+            "@currency": "USD",
+            "#text": "4687618"
+         }
+      },
+      "percentile": "0"
+   },
+   "localRealEstate": {
+      "region": {
+         "@name": "Hayes Valley",
+         "@id": "268206",
+         "zindexValue": "1,189,000",
+         "links": {
+            "overview": "http://www.zillow.com/local-info/CA-San-Francisco/Hayes-Valley/r_268206/",
+            "forSaleByOwner": "http://www.zillow.com/hayes-valley-san-francisco-ca/fsbo/",
+            "forSale": "http://www.zillow.com/hayes-valley-san-francisco-ca/"
+         }
+      }
+   }
 }
  ]
 }
