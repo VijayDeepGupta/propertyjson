@@ -1,15 +1,73 @@
 {
   "allproperties": [
     {
-      "id": 1,
-      "price": "$59,000",
-      "roomtype": "3bd",
-      "balconytype": "2ba",
-      "area": "2072 sqrt",
-      "address": "112 E Dorris Ave"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+   "zpid": "74973223",
+   "links": {
+      "homedetails": "https://www.zillow.com/homedetails/804-Robinwood-Rd-Aberdeen-NC-28315/74973223_zpid/",
+      "graphsanddata": "http://www.zillow.com/homedetails/804-Robinwood-Rd-Aberdeen-NC-28315/74973223_zpid/#charts-and-data",
+      "mapthishome": "http://www.zillow.com/homes/74973223_zpid/",
+      "comparables": "http://www.zillow.com/homes/comps/74973223_zpid/"
+   },
+   "address": {
+      "street": "804 Robinwood Rd",
+      "zipcode": "28315",
+      "city": "ABERDEEN",
+      "state": "NC",
+      "latitude": "35.14511",
+      "longitude": "-79.425755"
+   },
+   "FIPScounty": "37125",
+   "useCode": "SingleFamily",
+   "taxAssessmentYear": "2017",
+   "taxAssessment": "202400.0",
+   "yearBuilt": "1974",
+   "lotSizeSqFt": "33105",
+   "finishedSqFt": "1890",
+   "bathrooms": "3.0",
+   "bedrooms": "3",
+   "totalRooms": "6",
+   "lastSoldDate": "03/20/2014",
+   "lastSoldPrice": {
+      "@currency": "USD",
+      "#text": "225000"
+   },
+   "zestimate": {
+      "amount": {
+         "@currency": "USD",
+         "#text": "225645"
+      },
+      "last-updated": "05/10/2018",
+      "oneWeekChange": {
+         "@deprecated": "true"
+      },
+      "valueChange": {
+         "@duration": "30",
+         "@currency": "USD",
+         "#text": "2854"
+      },
+      "valuationRange": {
+         "low": {
+            "@currency": "USD",
+            "#text": "209850"
+         },
+         "high": {
+            "@currency": "USD",
+            "#text": "236927"
+         }
+      },
+      "percentile": "0"
+   },
+   "localRealEstate": {
+      "region": {
+         "@name": "Aberdeen",
+         "@id": "3301",
+         "links": {
+            "overview": "http://www.zillow.com/local-info/NC-Aberdeen/r_3301/",
+            "forSaleByOwner": "http://www.zillow.com/aberdeen-nc/fsbo/",
+            "forSale": "http://www.zillow.com/aberdeen-nc/"
+         }
+      }
+   }
+}
+  ]
 }
