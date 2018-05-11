@@ -989,6 +989,70 @@
          }
       }
    }
+},
+    {
+   "zpid": "130309998",
+   "links": {
+      "homedetails": "https://www.zillow.com/homedetails/356-Hudson-St-Denver-CO-80220/130309998_zpid/",
+      "graphsanddata": "http://www.zillow.com/homedetails/356-Hudson-St-Denver-CO-80220/130309998_zpid/#charts-and-data",
+      "mapthishome": "http://www.zillow.com/homes/130309998_zpid/",
+      "comparables": "http://www.zillow.com/homes/comps/130309998_zpid/"
+   },
+   "address": {
+      "street": "356 Hudson St",
+      "zipcode": "80220",
+      "city": "Denver",
+      "state": "CO",
+      "latitude": "39.722225",
+      "longitude": "-104.923662"
+   },
+   "FIPScounty": "8031",
+   "useCode": "Townhouse",
+   "taxAssessmentYear": "2017",
+   "taxAssessment": "683300.0",
+   "yearBuilt": "1953",
+   "lotSizeSqFt": "3049",
+   "finishedSqFt": "1848",
+   "bathrooms": "2.0",
+   "bedrooms": "2",
+   "zestimate": {
+      "amount": {
+         "@currency": "USD",
+         "#text": "594652"
+      },
+      "last-updated": "05/10/2018",
+      "oneWeekChange": {
+         "@deprecated": "true"
+      },
+      "valueChange": {
+         "@duration": "30",
+         "@currency": "USD",
+         "#text": "-103701"
+      },
+      "valuationRange": {
+         "low": {
+            "@currency": "USD",
+            "#text": "564919"
+         },
+         "high": {
+            "@currency": "USD",
+            "#text": "671957"
+         }
+      },
+      "percentile": "0"
+   },
+   "localRealEstate": {
+      "region": {
+         "@name": "Hilltop",
+         "@id": "119762",
+         "zindexValue": "920,700",
+         "links": {
+            "overview": "http://www.zillow.com/local-info/CO-Denver/Hilltop/r_119762/",
+            "forSaleByOwner": "http://www.zillow.com/hilltop-denver-co/fsbo/",
+            "forSale": "http://www.zillow.com/hilltop-denver-co/"
+         }
+      }
+   }
 }
  ]
 }
